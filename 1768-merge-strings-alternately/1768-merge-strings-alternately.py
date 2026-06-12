@@ -10,5 +10,6 @@ class Solution:
             left_over = word2[word1_len:]
         res = []
         for i in range(iterr):
-            res.append(word1[i] + word2[i])
+            res.append(word1[i])
+            res.append(word2[i])
         return ''.join(res) + left_over
