@@ -8,7 +8,7 @@ class Solution:
         else:
             iterr = word1_len
             left_over = word2[word1_len:]
-        res = ""
+        res = []
         for i in range(iterr):
-            res += word1[i] + word2[i]
-        return res + left_over
+            res.append(word1[i] + word2[i])
+        return ''.join(res) + left_over
