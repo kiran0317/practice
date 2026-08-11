@@ -3,10 +3,10 @@ class Solution:
         if x < 0:
             return False
         x = str(x)
-        if x[::-1] == x:
-            return True
-        else:
-            return False
+        return x[::-1] == x
+        #     return True
+        # else:
+        #     return False
         # r = 0
         # num = x
         # while (x>0):
