@@ -38,4 +38,8 @@ DSA
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/kiran0317/practice/tree/master/3731-find-missing-elements) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/kiran0317/practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
