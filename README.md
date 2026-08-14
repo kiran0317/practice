@@ -42,4 +42,8 @@ DSA
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kiran0317/practice/tree/master/0009-palindrome-number) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/kiran0317/practice/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
