@@ -46,4 +46,5 @@ DSA
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/kiran0317/practice/tree/master/0185-department-top-three-salaries) |
+| [1321-restaurant-growth](https://github.com/kiran0317/practice/tree/master/1321-restaurant-growth) |
 <!---LeetCode Topics End-->
