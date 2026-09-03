@@ -22,6 +22,7 @@ DSA
 | [0283-move-zeroes](https://github.com/kiran0317/practice/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/kiran0317/practice/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kiran0317/practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1732-find-the-highest-altitude](https://github.com/kiran0317/practice/tree/master/1732-find-the-highest-altitude) |
 | [3731-find-missing-elements](https://github.com/kiran0317/practice/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -53,4 +54,5 @@ DSA
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/kiran0317/practice/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/kiran0317/practice/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
