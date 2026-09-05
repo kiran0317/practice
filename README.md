@@ -5,6 +5,7 @@ DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kiran0317/practice/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/kiran0317/practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiran0317/practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kiran0317/practice/tree/master/0392-is-subsequence) |
@@ -19,6 +20,7 @@ DSA
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kiran0317/practice/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/kiran0317/practice/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/kiran0317/practice/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kiran0317/practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -57,4 +59,8 @@ DSA
 | ------- |
 | [0724-find-pivot-index](https://github.com/kiran0317/practice/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/kiran0317/practice/tree/master/1732-find-the-highest-altitude) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kiran0317/practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
