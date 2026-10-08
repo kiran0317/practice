@@ -52,6 +52,7 @@ DSA
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/kiran0317/practice/tree/master/0185-department-top-three-salaries) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/kiran0317/practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1321-restaurant-growth](https://github.com/kiran0317/practice/tree/master/1321-restaurant-growth) |
 | [1527-patients-with-a-condition](https://github.com/kiran0317/practice/tree/master/1527-patients-with-a-condition) |
 ## Prefix Sum
